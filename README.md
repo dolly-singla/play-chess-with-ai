@@ -1,5 +1,3 @@
-# play-chess-with-ai
-An interactive chess game developed in Python using Pygame, featuring a strong AI opponent based on the Minimax algorithm with Alpha-Beta pruning and positional evaluation.
 # ♟️ Pygame Chess AI
 
 A Python-based Chess game built with **Pygame** featuring an AI opponent powered by the **Minimax Algorithm** with **Alpha-Beta Pruning**. The project uses the **python-chess** library for chess rules and move validation while implementing an intelligent evaluation function for strategic gameplay.
